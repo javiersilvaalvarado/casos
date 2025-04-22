@@ -1,3 +1,3 @@
 Comparar tasa de ataque en diferentes grupos
-
-Los mapas ilustran la propagacion y el impacto del brote
+Los mapas ilustran la propagación y el impacto del brote
+usar paquete sf para leer informacion espacial
