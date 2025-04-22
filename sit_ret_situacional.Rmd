@@ -1,3 +1,4 @@
 Comparar tasa de ataque en diferentes grupos
 Los mapas ilustran la propagación y el impacto del brote
-usar paquete sf para leer informacion espacial
+usar paquete (sf) para leer informacion espacial
+Realizar graficos con (ggplot2)
